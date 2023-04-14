@@ -6,7 +6,7 @@ A passionate Software Engineer with experience in developing management systems.
 - 🔭 I’m currently working on a Health management system
 - 🌱 I’m currently learning React and Node Js
 - 👯 I’m looking to collaborate on projects related to web dev, desktop dev, and full stack dev
-- 👨‍💻 Most of my projects are available at Portfolio
+- 👨‍💻 Most of my projects are available here
 - 💬 Ask me about requirements, design, architecture and programming
 - 📫 How to reach me moizrootsdha@gmail.com
 - 📄 Know about my experiences [Resume]
