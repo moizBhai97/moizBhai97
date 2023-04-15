@@ -1,6 +1,6 @@
 ### Hi there I am Moiz Akhtar👋
 
-A passionate Software Engineer with experience in developing management systems.
+A passionate Software Engineering Student with experience in developing management systems.
 
 - 🎓 I'm a Software Engineer UnderGrad at FAST NATIONAL UNIVERSITY, expecting to graduate in 2025
 - 🔭 I’m currently working on a Health management system
