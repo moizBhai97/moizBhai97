@@ -9,7 +9,7 @@ A passionate Software Engineering Student with experience in developing end-to-e
 - 👨‍💻 Some of my projects are available here
 - 💬 Ask me about requirements, design, architecture, algorithms, and programming
 - 📫 How to reach me moizrootsdha@gmail.com
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sqjjIOpzuusDiW-u6ZeLpY64S_jKWV_o/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vjZ-XJxTPgXfhIuZ9SbhmkJ_6XVsCAEk/view?usp=sharing)
 - ⚡ Fun fact I can play badminton
 
 <h3 align="left">Languages and Tools:</h3>
