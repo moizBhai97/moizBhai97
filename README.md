@@ -1,13 +1,13 @@
 ### Hi there I am Moiz Akhtar👋
 
-A passionate Software Engineering Student with experience in developing management systems.
+A passionate Software Engineering Student with experience in developing end-to-end solutions.
 
 - 🎓 I'm a Software Engineer UnderGrad at FAST NATIONAL UNIVERSITY, expecting to graduate in 2025
-- 🔭 I’m currently working on a Health management system
-- 🌱 I’m currently learning React and Node Js
-- 👯 I’m looking to collaborate on projects related to web dev, desktop dev, and full stack dev
-- 👨‍💻 Most of my projects are available here
-- 💬 Ask me about requirements, design, architecture and programming
+- 🔭 I’m currently working on an AI Math Olympiad Project
+- 🌱 I’m currently learning  Bidirectional Encoder Representations from Transformers
+- 👯 I’m looking to collaborate on projects related to web dev, desktop dev, full stack dev, and AI dev
+- 👨‍💻 Some of my projects are available here
+- 💬 Ask me about requirements, design, architecture, algorithms, and programming
 - 📫 How to reach me moizrootsdha@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sqjjIOpzuusDiW-u6ZeLpY64S_jKWV_o/view?usp=sharing)
 - ⚡ Fun fact I can play badminton
